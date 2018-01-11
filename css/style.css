@@ -7,7 +7,7 @@
 
 body {
 	line-height: 1.4;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Raleway', sans-serif;
     color: #67696c;
     font-size: 16px;
     font-weight: 300;
@@ -121,7 +121,7 @@ HEADER
 
 .logo-dec
 {
-    color: #fe9909;
+    color: #48ac33;
 }
 .navbar-default .navbar-brand {
     color: #fff;
@@ -152,12 +152,12 @@ HEADER
     transition: color 0.2s ease-out;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    color: #fe9909;
+    color: #48ac33;
     background-color: transparent;
 }
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
     background-color: transparent;
-    color: #fe9909;
+    color: #48ac33;
 }
 .banner-info
 {
@@ -166,7 +166,7 @@ HEADER
 }
 .bnr-title, .bnr-sub-title
 {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 h1.bnr-title
 {
@@ -206,17 +206,17 @@ h2.bnr-sub-title
 
 .btn-download
 {
-    background-color: #fe9909;
+    background-color: #48ac33;
 }
 .btn-more, .btn-more:focus
 {
     margin-left: 15px;
-    border: 1px solid #fe9909;
-    color: #fe9909;
+    border: 1px solid #48ac33;
+    color: #48ac33;
 }
 
 .btn-more:hover {
-    background: #fe9909;
+    background: #48ac33;
     color: #fff;
 }
 
@@ -234,7 +234,7 @@ features
 ***********************************/
 .title, .service-title
 {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 35px;
     text-transform: uppercase;
 }
@@ -254,7 +254,7 @@ features
     border-top: 0px;
     height: 3px;
     width: 40px;
-    background-color: #fe9909;
+    background-color: #48ac33;
 }
 .wrap-item h3 {
     font-size: 24px;
@@ -346,7 +346,7 @@ ul.service-list li i
 }
 .service-item a
 {
-    color: #fe9909;
+    color: #48ac33;
 }
 .mr-btn-15
 {
@@ -386,7 +386,7 @@ ul.service-list li i
     box-sizing:border-box
 }
 .portfolio-item figure h2 {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color:#fff;
     font-size:20px;
     text-align:center;
@@ -405,7 +405,7 @@ ul.service-list li i
     width:100%;
     height:100%;
     padding: 59px 30px;
-    background-color: #fe9909;
+    background-color: #48ac33;
     backface-visibility:hidden;
     -webkit-transform:rotateY(-180deg);
     -moz-transform:rotateY(-180deg);
@@ -488,7 +488,7 @@ TESTIMONIAL
     position: absolute;
     font-weight: 300;
     font-size: 3em;
-    font-family: Georgia, serif;
+    font-family: 'Raleway', serif;
     color: #ccc;
     top: 62%;
 }
@@ -568,9 +568,9 @@ contact
 {
     background-color: transparent;
     border-radius: 60px;
-    color: #fe9909;
+    color: #48ac33;
     font-weight: 400;
-    border: 1px solid #fe9909;
+    border: 1px solid #48ac33;
     font-size: 14px;
     padding: 6px 20px;
 }
@@ -578,11 +578,11 @@ contact
 {
     background-color: transparent;
     border-radius: 0px;
-    color: #fe9909 !important;
-    border-color: #fe9909;
+    color: #48ac33 !important;
+    border-color: #48ac33;
 }
 .form-control:focus {
-    border-color: #fe9909;
+    border-color: #48ac33;
     outline: 0;
     -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
     box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
@@ -629,7 +629,7 @@ contact
 }
 .loction-info p i
 {
-    color: #fe9909;
+    color: #48ac33;
 }
 /***********************************
 ************************************
@@ -647,7 +647,7 @@ contact
     width: 42px;
     height: 42px;
     color: #ffffff;
-    background: #fe9909;
+    background: #48ac33;
     font-size: 14px;
     line-height: 42px;
     text-align: center;
@@ -660,7 +660,7 @@ contact
     background-color: #fff;
 }
 #footer a{
-    color: #fe9909;
+    color: #48ac33;
     font-weight: 400;
 }
 /***********************************
@@ -774,5 +774,4 @@ body{
 .navbar-default .navbar-nav > li > a{
     line-height: 22px;
     text-align: center;
-}
 }
