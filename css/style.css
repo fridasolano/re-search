@@ -776,5 +776,5 @@ body{
     text-align: center;
 }
 video {
-    max-width:600px;
+    width:100%;
 }
