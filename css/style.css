@@ -775,3 +775,6 @@ body{
     line-height: 22px;
     text-align: center;
 }
+video {
+    max-width:600px;
+}
